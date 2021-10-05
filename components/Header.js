@@ -36,7 +36,7 @@ function Header() {
       </Button>
       <img
         loading="lazy"
-        className="cursor-pointer h-12 w-12 rounded-full ml-2"
+        className="hidden md:inline-flex cursor-pointer h-12 w-12 rounded-full ml-2"
         src="https://static.wikia.nocookie.net/valorant/images/3/35/Jett_icon.png/revision/latest/scale-to-width-down/250?cb=20201128234156"
         alt=""
       />
